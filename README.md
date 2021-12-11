@@ -6,9 +6,8 @@ Understanding is always the number one priority, which is why we include quizzes
 ## 👨‍🏫 Courses
 At YRCodes we have a Python Course covering the Grade 11 Ontario curriculum as well as a Java Course which covers the Grade 12 curriculum.
 
-[Python Course - List of Lessons](https://yrcodes.ca/python.html)
-
-[Java Course - List of Lessons](https://yrcodes.ca/java.html)
+- [Python Course - List of Lessons](https://yrcodes.ca/python.html)
+- [Java Course - List of Lessons](https://yrcodes.ca/java.html)
 
 ## 💡 Features
 - We include full lesson plans with thoughtful explanations and code snippets that are easy to test out!
